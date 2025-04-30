@@ -15,5 +15,7 @@ This WooCommerce plugin adds a configurable delivery fee based on the shipping a
 ## Usage
 This plugin hooks into WooCommerce's shipping calculator and adds a custom delivery fee based on distance from your specified origin coordinates.
 
+A valid Google Maps API key is required.
+
 ## Credits
 Developed by [Rich Stern](https://www.linkedin.com/in/richstern/) for ZJS Technology.
