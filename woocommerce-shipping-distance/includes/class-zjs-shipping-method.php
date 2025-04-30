@@ -41,7 +41,7 @@ class zjs_Shipping_Method extends WC_Shipping_Method {
 			'base_location' => [
 				'title'       => __( 'Ship From Address', 'zjs' ),
 				'type'        => 'text',
-				'description' => 'Full address of the mulch yard.'
+				'description' => 'Full address of the ship from location.'
 			],
 			'per_mile_rate' => [
 				'title'       => __( 'Rate per Mile', 'zjs' ),
